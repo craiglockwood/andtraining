@@ -269,14 +269,14 @@
 
 // Navigation 
 
-    // Navigation top-fix
+/*    // Navigation top-fix
     $(window).scroll(function() {
       if ($(".navbar").offset().top > 250) {
         $(".navbar-fixed-top").addClass("top-nav-collapse");
       } else {
         $(".navbar-fixed-top").removeClass("top-nav-collapse");
       }
-    });
+    });*/
 
     // Navigation Dropdown
     $(function () {
