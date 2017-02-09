@@ -525,7 +525,7 @@ ul {
 }
 img.slider-back-img {
   position: absolute;
-  top: 16.5vh;
+  top: 6.5vh;
   right: 2%; 
   z-index: -999;
 }
